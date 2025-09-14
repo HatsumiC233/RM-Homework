@@ -2,8 +2,9 @@
 ## 二级标题
 ### 三级标题
 
-*斜体*
+*斜体*\
 **加粗**
+<u>下划线</u>
 
 > 引用
 
@@ -48,5 +49,16 @@ int main(){
 
 [id]:www.agemys.io
 
+请参考[有序](#有序)
+
+ULR:
+https://www.pornhub.com
+
+![好康的](https://i1.hdslb.com/bfs/new_dyn/e053a02d1cc0ab1a799df02e4f92641b30879313.jpg@700w_560h_1e_1c.avif)
+
+:smile:
+
+H<sub>2</sub>O
+X<sup>2</sup>
 
 [^早八]:史
